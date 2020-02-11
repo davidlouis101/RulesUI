@@ -1,8 +1,8 @@
 ---
 # Join msg
-msg: "Welcome to the server"
+msg: "Willkommen Auf Paincraft"
 # Form settings
-title: "Welcome"
-content: "Please read our rules!\n 1)Test\n 2)Test2\n 3)You can add more lines etc on the config with \n!" 
-button: "Play"
+title: "Unsere Regeln"
+content: "§l§b 1. Nicht Spammen \n §42. Keine CAPS! \n §93. Nicht Nach OP Fragen! \n §c4. Nicht Scammen!!! \n §e5. Nicht Betrügen" 
+button: "Spielen"
 ...
